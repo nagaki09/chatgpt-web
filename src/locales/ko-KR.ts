@@ -25,8 +25,8 @@ export default {
     success: '성공',
     failed: '실패',
     verify: '검증',
-    unauthorizedTips: '인증되지 않았습니다. 먼저 확인하십시오.',
-		stopResponding: '응답 중지',
+    unauthorizedTips: '그룹 추가 수령 인증코드, 장기 무료 사용.',
+    stopResponding: '응답 중지',
   },
   chat: {
     newChatButton: '새로운 채팅',

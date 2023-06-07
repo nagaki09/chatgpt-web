@@ -25,8 +25,8 @@ export default {
     success: 'Success',
     failed: 'Failed',
     verify: 'Verify',
-    unauthorizedTips: 'Unauthorized, please verify first.',
-		stopResponding: 'Stop Responding',
+    unauthorizedTips: 'Add groups to receive verification codes for long-term free use.',
+    stopResponding: 'Stop Responding',
   },
   chat: {
     newChatButton: 'New Chat',

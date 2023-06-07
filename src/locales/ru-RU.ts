@@ -25,8 +25,8 @@ export default {
     success: 'Успех',
     failed: 'Не удалось',
     verify: 'Проверить',
-    unauthorizedTips: 'Не авторизован, сначала подтвердите свою личность.',
-		stopResponding: 'Прекращение отклика',
+    unauthorizedTips: 'Добавить групповой доступ к коду проверки, долгосрочное бесплатное использование.',
+    stopResponding: 'Прекращение отклика',
   },
   chat: {
     newChatButton: 'Новый чат',
