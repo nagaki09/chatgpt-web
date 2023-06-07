@@ -25,7 +25,7 @@ export default {
     success: '操作成功',
     failed: '操作失败',
     verify: '验证',
-    unauthorizedTips: '加群领取验证码，长期免费使用。',
+    unauthorizedTips: '添加微信获取验证码，可长期免费使用。',
     stopResponding: '停止响应',
   },
   chat: {
