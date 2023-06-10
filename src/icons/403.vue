@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 import { NImage } from 'naive-ui'
 import groupPicture from '@/assets/group_picture.jpg'
-import servicePicture from '@/assets/service_picture.jpg'
+import servicePicture from '@/assets/admin_picture.jpg'
 </script>
 
 <template>
